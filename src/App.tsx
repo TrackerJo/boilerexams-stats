@@ -1,7 +1,7 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
-import { Question } from './constants'
-import { getQuesion } from './boilerexams_api'
+// import { Question } from './constants'
+// import { getQuesion } from './boilerexams_api'
 
 function App() {
 

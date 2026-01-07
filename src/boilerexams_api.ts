@@ -1,4 +1,4 @@
-import { Question, type Course } from "./constants";
+import { Question } from "./constants";
 
 export async function getQuesion(questionId: string): Promise<Question | null> {
     const headers: Headers = new Headers()
@@ -18,6 +18,6 @@ export async function getQuesion(questionId: string): Promise<Question | null> {
         })
 }
 
-async function getCourse(courseId: string): Promise<Course | null> {
-    return null;
-}
+// export async function getCourse(courseId: string): Promise<Course | null> {
+//     return null;
+// }
