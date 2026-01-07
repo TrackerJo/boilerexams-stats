@@ -1,0 +1,1891 @@
+[
+    {
+        "id": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "The level curves of $f(x, y)=\\sqrt{x^{2}+y^{2}+1}+x$ are",
+            "solution": [
+                4
+            ],
+            "answerChoices": [
+                {
+                    "id": "8f9d42fc-ab5a-45c6-938e-151d85b150d2",
+                    "index": 0,
+                    "body": "hyperbolas",
+                    "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+                    "stats": {
+                        "count": 665
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "85866eb2-d6d2-416e-9dfd-3760b7847708",
+                    "index": 1,
+                    "body": "ellipses",
+                    "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+                    "stats": {
+                        "count": 462
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "652ffb80-c734-46cc-9f13-79ac14f45c06",
+                    "index": 2,
+                    "body": "sometimes lines and sometimes ellipses",
+                    "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+                    "stats": {
+                        "count": 309
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "89642a22-9286-4b93-9483-6287e84f0b26",
+                    "index": 3,
+                    "body": "circles",
+                    "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+                    "stats": {
+                        "count": 267
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "e0375bcf-be7c-47e7-8b8a-e106bcbe3628",
+                    "index": 4,
+                    "body": "parabolas",
+                    "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+                    "stats": {
+                        "count": 5066
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 7,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "665189572",
+            "timeSpentVideo": "187375387",
+            "submissions": 7428,
+            "submissionsCorrect": 5066,
+            "accuracy": 0.6820140010770059,
+            "difficulty": 0.570403825717322
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "48900267-a164-4b09-8939-8badb14e1ea7",
+            "body": "",
+            "questionId": "1f86e0a7-0736-4f45-85d7-b0e4cdf5f969",
+            "resources": [
+                {
+                    "id": "dadd23ec-a585-4c99-b0f4-4f51e9792a18",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=737"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "48900267-a164-4b09-8939-8badb14e1ea7",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "1ee8b64e-2815-4346-b957-742c33ccbaf6",
+                "name": "Level Curves",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "8499700320",
+                    "timeSpentVideo": "730710693",
+                    "submissions": 29445,
+                    "submissionsCorrect": 16921,
+                    "questions": 5,
+                    "accuracy": 0.5746646289692647,
+                    "difficulty": 0.6755880859705534
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "2babcb23-91c7-4328-be7e-21d928212a72",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "What does the equation $x^{2}-2 y^{2}+z^{2}=-1$ represent as surface in $\\mathbb{R}^{3}$ ?",
+            "solution": [
+                2
+            ],
+            "answerChoices": [
+                {
+                    "id": "61cfcdeb-d1e5-4071-a5a0-5ef64d52bfb5",
+                    "index": 0,
+                    "body": "elliptic paraboloid",
+                    "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+                    "stats": {
+                        "count": 149
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "49fb9852-b88a-4d94-8ad2-8c40c32dfe03",
+                    "index": 1,
+                    "body": "hyperboloid of one sheet",
+                    "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+                    "stats": {
+                        "count": 2204
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "bb13e10a-4875-43c4-996f-bb348ada7cc9",
+                    "index": 2,
+                    "body": "hyperboloid of two sheets",
+                    "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+                    "stats": {
+                        "count": 6014
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "85adb58d-0536-4afd-85ac-f046ab969cc0",
+                    "index": 3,
+                    "body": "hyperbolic paraboloid",
+                    "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+                    "stats": {
+                        "count": 200
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "e850b341-3de6-4f0f-9ddb-0b1f16d86184",
+                    "index": 4,
+                    "body": "elliptic cone",
+                    "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+                    "stats": {
+                        "count": 119
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 3,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "506374967",
+            "timeSpentVideo": "101616729",
+            "submissions": 8977,
+            "submissionsCorrect": 6013,
+            "accuracy": 0.6698228806951098,
+            "difficulty": 0.5820480334912416
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "28c48f70-c42b-4028-ad60-4efadb23c122",
+            "body": "",
+            "questionId": "2babcb23-91c7-4328-be7e-21d928212a72",
+            "resources": [
+                {
+                    "id": "fe29ff6a-ade8-4f69-b0d8-6ad44dd59e49",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=228"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "28c48f70-c42b-4028-ad60-4efadb23c122",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "31dcfea1-97fb-4b50-ba3e-ee342c2284d6",
+                "name": "Quadratic surfaces",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "7078475445",
+                    "timeSpentVideo": "577260106",
+                    "submissions": 27040,
+                    "submissionsCorrect": 17411,
+                    "questions": 3,
+                    "accuracy": 0.6438979289940828,
+                    "difficulty": 0.6066322770817981
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "A particle has acceleration $\\vec{a}(t)=<0, 2t, \\sqrt{2}>$ with an initial velocity of $<1, 0, 0>$ at $t = 0$. Find the distance traveled for $0 ≤ t ≤ 3.$",
+            "solution": [
+                1
+            ],
+            "answerChoices": [
+                {
+                    "id": "c29aa4bd-72b3-49f4-8d75-a6c87a7c3c0f",
+                    "index": 0,
+                    "body": "$ 3 $",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 383
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "175f2748-ec9f-4666-8682-7095d8c15eec",
+                    "index": 1,
+                    "body": "$12$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 5154
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "584c360e-e60e-4136-a45e-99e645058d6f",
+                    "index": 2,
+                    "body": "$2\\cosh(3) - 1$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 108
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "27355f1a-6e81-4b43-bbdf-f0ebb94addca",
+                    "index": 3,
+                    "body": "$4\\sinh(3)$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 88
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "88d6ad3a-040b-49f8-b550-49313dd977f0",
+                    "index": 4,
+                    "body": "$\\frac{3 \\pi}{2}$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 91
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 5,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2016080459",
+            "timeSpentVideo": "213164475",
+            "submissions": 7922,
+            "submissionsCorrect": 5154,
+            "accuracy": 0.65059328452411,
+            "difficulty": 0.6012839690850162
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+            "body": "",
+            "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+            "resources": [
+                {
+                    "id": "6b1be456-7721-46aa-bf08-24ff5b61ebb9",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=440"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "ae4e633c-83e3-4b7d-9cdb-f01a1cf447b1",
+                "name": "Arc Length",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "20254953619",
+                    "timeSpentVideo": "739928627",
+                    "submissions": 49074,
+                    "submissionsCorrect": 35616,
+                    "questions": 7,
+                    "accuracy": 0.725761095488446,
+                    "difficulty": 0.5246980111441005
+                }
+            },
+            {
+                "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+                "name": "Particle Motion",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "29644121188",
+                    "timeSpentVideo": "1565560103",
+                    "submissions": 64117,
+                    "submissionsCorrect": 43236,
+                    "questions": 14,
+                    "accuracy": 0.6743297409423398,
+                    "difficulty": 0.5759417288257004
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "A particle has acceleration $\\vec{a}(t)=<0, 2t, \\sqrt{2}>$ with an initial velocity of $<1, 0, 0>$ at $t = 0$. Find the distance traveled for $0 ≤ t ≤ 3.$",
+            "solution": [
+                1
+            ],
+            "answerChoices": [
+                {
+                    "id": "c29aa4bd-72b3-49f4-8d75-a6c87a7c3c0f",
+                    "index": 0,
+                    "body": "$ 3 $",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 383
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "175f2748-ec9f-4666-8682-7095d8c15eec",
+                    "index": 1,
+                    "body": "$12$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 5154
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "584c360e-e60e-4136-a45e-99e645058d6f",
+                    "index": 2,
+                    "body": "$2\\cosh(3) - 1$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 108
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "27355f1a-6e81-4b43-bbdf-f0ebb94addca",
+                    "index": 3,
+                    "body": "$4\\sinh(3)$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 88
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "88d6ad3a-040b-49f8-b550-49313dd977f0",
+                    "index": 4,
+                    "body": "$\\frac{3 \\pi}{2}$",
+                    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+                    "stats": {
+                        "count": 91
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 5,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2016080459",
+            "timeSpentVideo": "213164475",
+            "submissions": 7922,
+            "submissionsCorrect": 5154,
+            "accuracy": 0.65059328452411,
+            "difficulty": 0.6012839690850162
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+            "body": "",
+            "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+            "resources": [
+                {
+                    "id": "6b1be456-7721-46aa-bf08-24ff5b61ebb9",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=440"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "ae4e633c-83e3-4b7d-9cdb-f01a1cf447b1",
+                "name": "Arc Length",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "20254953619",
+                    "timeSpentVideo": "739928627",
+                    "submissions": 49074,
+                    "submissionsCorrect": 35616,
+                    "questions": 7,
+                    "accuracy": 0.725761095488446,
+                    "difficulty": 0.5246980111441005
+                }
+            },
+            {
+                "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+                "name": "Particle Motion",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "29644121188",
+                    "timeSpentVideo": "1565560103",
+                    "submissions": 64117,
+                    "submissionsCorrect": 43236,
+                    "questions": 14,
+                    "accuracy": 0.6743297409423398,
+                    "difficulty": 0.5759417288257004
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "If $\\vec{r}(t)=<1,5 t^{2}, 4 t>$, find $\\kappa(0)$ (i.e., the curvature at $\\mathrm{t}=0$ ).",
+            "solution": [
+                2
+            ],
+            "answerChoices": [
+                {
+                    "id": "a8ac0d39-c18e-4e84-b556-8f50994bf373",
+                    "index": 0,
+                    "body": "$0$",
+                    "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+                    "stats": {
+                        "count": 677
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "cb989132-2d73-4926-b12e-81275f7c8361",
+                    "index": 1,
+                    "body": "$\\frac{5}{4}$",
+                    "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+                    "stats": {
+                        "count": 503
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "cea42d99-7e88-4146-989e-0111d35b6782",
+                    "index": 2,
+                    "body": "$\\frac{5}{8}$",
+                    "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+                    "stats": {
+                        "count": 4554
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "f324fd10-e0b1-4c3f-b272-a1270e1d55ec",
+                    "index": 3,
+                    "body": "$1$",
+                    "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+                    "stats": {
+                        "count": 240
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "b101ae8a-85f7-45b8-9f98-8e14b5f2cdab",
+                    "index": 4,
+                    "body": "$-\\frac{5}{4}$",
+                    "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+                    "stats": {
+                        "count": 95
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 4,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1614135661",
+            "timeSpentVideo": "158957564",
+            "submissions": 7633,
+            "submissionsCorrect": 4554,
+            "accuracy": 0.5966199397353597,
+            "difficulty": 0.6546295098926678
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "354fffe3-95be-4c60-aeca-0c476a99d555",
+            "body": "",
+            "questionId": "ad02cfa5-e269-4f18-953c-eabaf4aba395",
+            "resources": [
+                {
+                    "id": "3bc351a5-bbfa-4c7a-aff9-dab5e663dd15",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=314"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "354fffe3-95be-4c60-aeca-0c476a99d555",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "b950d74b-c6e2-40b8-a2db-3f2667da84db",
+                "name": "Curvature",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "12438478588",
+                    "timeSpentVideo": "410728978",
+                    "submissions": 25513,
+                    "submissionsCorrect": 16508,
+                    "questions": 4,
+                    "accuracy": 0.6470426841218202,
+                    "difficulty": 0.6035314098309452
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "The tangent plane to the surface $z = x^2 + xy + 2y^2$ at the point $(1, 1, 4)$ intersects the x axis at the point (a, 0, 0). Find the number a",
+            "solution": [
+                3
+            ],
+            "answerChoices": [
+                {
+                    "id": "df7cbcf1-1892-446f-8e89-5850d38e08fc",
+                    "index": 0,
+                    "body": "$2$",
+                    "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+                    "stats": {
+                        "count": 189
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "502ba8d0-39b1-42e5-af76-8912410d2e2f",
+                    "index": 1,
+                    "body": "$4$",
+                    "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+                    "stats": {
+                        "count": 329
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "870a7baa-b776-4564-9486-489e6dab8938",
+                    "index": 2,
+                    "body": "$-2$",
+                    "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+                    "stats": {
+                        "count": 128
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "26a0366d-1da2-4535-b60b-52c41126d149",
+                    "index": 3,
+                    "body": "$\\frac{4}{3}$",
+                    "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+                    "stats": {
+                        "count": 3458
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "fe0ed536-0801-4c91-885e-5ddf45c5bae5",
+                    "index": 4,
+                    "body": "$\\frac{5}{4}$",
+                    "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+                    "stats": {
+                        "count": 82
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 9,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1318238209",
+            "timeSpentVideo": "155574586",
+            "submissions": 5627,
+            "submissionsCorrect": 3458,
+            "accuracy": 0.6145370534920918,
+            "difficulty": 0.6374628950584948
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "554f9ee4-80e6-4ee7-9d4d-1d359ea2c047",
+            "body": "",
+            "questionId": "ae399a1f-0722-4de6-a0c9-164a5d3e4a09",
+            "resources": [
+                {
+                    "id": "a93ee3eb-5446-4c75-b05e-8715898eca09",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=952"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "554f9ee4-80e6-4ee7-9d4d-1d359ea2c047",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+                "name": "Tangent Planes",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "33500325224",
+                    "timeSpentVideo": "2790412754",
+                    "submissions": 73845,
+                    "submissionsCorrect": 41878,
+                    "questions": 15,
+                    "accuracy": 0.5671067777100683,
+                    "difficulty": 0.6829839745756981
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "If $f$ is a differentiable function of $x$ and $y$ and $g$ is a differentiable function of $u$ and $v$ and $g(u, v)=f\\left((u+2 v)^{3}+1, e^{u v}-1\\right)$, use the table below to find the value of $g_{v}(-1,0)$.\n\\[\n\\begin{array}{c|c|c|c|c}\n & f & g & f_{x} & f_{y} \\\\\n\\hline\n(-1,0) & 8 & 1 & 4 & 2 \\\\\n\\hline\n(0,0) & 1 & 3 & 5 & 7 \\\\\n\\hline\n\\end{array}\n\\]",
+            "solution": [
+                2
+            ],
+            "answerChoices": [
+                {
+                    "id": "b3c1e02d-5c00-4d1b-8d81-a50773df836e",
+                    "index": 0,
+                    "body": "$15$",
+                    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+                    "stats": {
+                        "count": 178
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "2d028cb3-d656-44ca-980d-34db59a44178",
+                    "index": 1,
+                    "body": "$22$",
+                    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+                    "stats": {
+                        "count": 749
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "2434c785-d005-432b-9446-1a7ad56cb867",
+                    "index": 2,
+                    "body": "$23$",
+                    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+                    "stats": {
+                        "count": 3050
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "1e847a96-0221-4e20-ba7e-6f348b796daf",
+                    "index": 3,
+                    "body": "$33$",
+                    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+                    "stats": {
+                        "count": 191
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "cc4031df-9521-4ba8-8888-79e8c041a7d9",
+                    "index": 4,
+                    "body": "$47$",
+                    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+                    "stats": {
+                        "count": 153
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 10,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2061059634",
+            "timeSpentVideo": "596130646",
+            "submissions": 7646,
+            "submissionsCorrect": 3050,
+            "accuracy": 0.39890138634580175,
+            "difficulty": 0.8497934417764007
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "fd79b06c-b474-4995-a656-ab6f91f5071a",
+            "body": "",
+            "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+            "resources": [
+                {
+                    "id": "e2433b50-b563-4af3-a5ca-32e1d44f7a1c",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=1086"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "fd79b06c-b474-4995-a656-ab6f91f5071a",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+                "name": "Chain Rule",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "26193300549",
+                    "timeSpentVideo": "1532746965",
+                    "submissions": 50431,
+                    "submissionsCorrect": 29525,
+                    "questions": 8,
+                    "accuracy": 0.5854533917630029,
+                    "difficulty": 0.6647157190635451
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "A traveling particle has position vector at time $t$ given by $\\vec{r}(t)=<t \\cos t, t \\sin t, 9-t^{2}>$. Find its speed at $t=1$.",
+            "solution": [
+                3
+            ],
+            "answerChoices": [
+                {
+                    "id": "e8b6bfd3-d830-434e-8cb6-1ee7f585aa11",
+                    "index": 0,
+                    "body": "$\\sqrt{2 \\pi}$",
+                    "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+                    "stats": {
+                        "count": 108
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "354f45a3-c911-4579-be65-8ade976fcc45",
+                    "index": 1,
+                    "body": "$5$",
+                    "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+                    "stats": {
+                        "count": 240
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "22a13933-14ed-4696-bd2a-76af4aed46a2",
+                    "index": 2,
+                    "body": "$3 \\pi$",
+                    "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+                    "stats": {
+                        "count": 73
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "1d221a14-ab44-472a-a076-01442370e627",
+                    "index": 3,
+                    "body": "$\\sqrt{6}$",
+                    "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+                    "stats": {
+                        "count": 3896
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "6dc32f88-e138-4925-b373-16fb4b7f3ab9",
+                    "index": 4,
+                    "body": "$tan (1)$",
+                    "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+                    "stats": {
+                        "count": 47
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 6,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1249363199",
+            "timeSpentVideo": "88806646",
+            "submissions": 5111,
+            "submissionsCorrect": 3896,
+            "accuracy": 0.7622774408139308,
+            "difficulty": 0.49275570907695265
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "bb8fac25-b42c-412e-9445-76a78cc34b76",
+            "body": "",
+            "questionId": "c5fe1087-3fad-40e3-8b02-baa066f7718d",
+            "resources": [
+                {
+                    "id": "3554ec58-7154-4815-b0b1-11294add8537",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=572"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "bb8fac25-b42c-412e-9445-76a78cc34b76",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+                "name": "Particle Motion",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "29644121188",
+                    "timeSpentVideo": "1565560103",
+                    "submissions": 64117,
+                    "submissionsCorrect": 43236,
+                    "questions": 14,
+                    "accuracy": 0.6743297409423398,
+                    "difficulty": 0.5759417288257004
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "Find the directional derivative of the function \\(f(x, y, z) = x^2y + y^2z\\) at the point \\((1, 2, 3)\\) in the direction toward the point \\((3, 1, 5)\\).",
+            "solution": [
+                0
+            ],
+            "answerChoices": [
+                {
+                    "id": "761edfa3-64bb-4457-ac44-411b8b3adb16",
+                    "index": 0,
+                    "body": "$1$",
+                    "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+                    "stats": {
+                        "count": 4321
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "af285b9f-ac49-4dc0-bfcd-d248644dc07d",
+                    "index": 1,
+                    "body": "$3$",
+                    "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+                    "stats": {
+                        "count": 829
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "cf6709bb-2199-4053-ae8a-4f7553ba96a6",
+                    "index": 2,
+                    "body": "$\\frac{1}{3}$",
+                    "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+                    "stats": {
+                        "count": 325
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "f61d0c6e-baf4-45a6-bad0-44c7c9e0fb4f",
+                    "index": 3,
+                    "body": "$-2$",
+                    "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+                    "stats": {
+                        "count": 120
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "f63bca92-330e-4573-a12a-a2802d659840",
+                    "index": 4,
+                    "body": "$-1$",
+                    "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+                    "stats": {
+                        "count": 155
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 11,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1765285491",
+            "timeSpentVideo": "225073079",
+            "submissions": 8084,
+            "submissionsCorrect": 4321,
+            "accuracy": 0.5345126175160811,
+            "difficulty": 0.7159090909090909
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "1a512db7-c902-4976-b993-0d62133a994c",
+            "body": "",
+            "questionId": "ce88915a-d4cd-46cb-a1e6-c63f016ce5c7",
+            "resources": [
+                {
+                    "id": "1549c83e-db14-46c2-9580-c76e70bd9c45",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=1380"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "1a512db7-c902-4976-b993-0d62133a994c",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "848a87e3-bdec-406f-9dce-fa318c43c49e",
+                "name": "Directional Derivative",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "8838880210",
+                    "timeSpentVideo": "485026836",
+                    "submissions": 20953,
+                    "submissionsCorrect": 12541,
+                    "questions": 4,
+                    "accuracy": 0.598530043430535,
+                    "difficulty": 0.6519379660855935
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "If\\[\n\\lim _{(x, y) \\rightarrow(0,0)} \\frac{x^{4}-3 a\\left(x^{2}+y^{2}\\right)-y^{4}}{x^{2}+y^{2}}=12,\n\\]\n\nthen the number $a$ must be equal to",
+            "solution": [
+                3
+            ],
+            "answerChoices": [
+                {
+                    "id": "04906c7c-08ec-40f3-a717-5cde0b681062",
+                    "index": 0,
+                    "body": "$4$",
+                    "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+                    "stats": {
+                        "count": 810
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "b074e422-fdf5-41a0-8c37-77af85ce96d7",
+                    "index": 1,
+                    "body": "$6$",
+                    "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+                    "stats": {
+                        "count": 57
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "4a09d6fc-642b-4147-b3ad-05ec31f1da90",
+                    "index": 2,
+                    "body": "$12$",
+                    "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+                    "stats": {
+                        "count": 88
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "905752fa-657d-47b5-a205-58f9932cf271",
+                    "index": 3,
+                    "body": "$-4$",
+                    "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+                    "stats": {
+                        "count": 6887
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "7ab34368-5f86-40a6-a571-bec8a2663b04",
+                    "index": 4,
+                    "body": "$3$",
+                    "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+                    "stats": {
+                        "count": 41
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 8,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1258550906",
+            "timeSpentVideo": "135609281",
+            "submissions": 8866,
+            "submissionsCorrect": 6887,
+            "accuracy": 0.7767877284006316,
+            "difficulty": 0.47629935311175553
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "ee5c30be-e358-4135-9ccf-c72b44139dc1",
+            "body": "",
+            "questionId": "d028ae9b-37c1-4d74-a191-574e365dfa42",
+            "resources": [
+                {
+                    "id": "769cc5dc-e09d-44a4-96f6-92bd892b90f7",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=861"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "ee5c30be-e358-4135-9ccf-c72b44139dc1",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "9c99be08-0dc5-4e06-beb4-b3ff43c28cb6",
+                "name": "3D Limits",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "20668622850",
+                    "timeSpentVideo": "1473436248",
+                    "submissions": 63445,
+                    "submissionsCorrect": 42680,
+                    "questions": 8,
+                    "accuracy": 0.6727086452833163,
+                    "difficulty": 0.5775631442284995
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "A line $l$ passes through the points $A(1,-2,1)$ and $B(2,3,-1)$. At what point does this line intersect with the $x y$-plane?",
+            "solution": [
+                4
+            ],
+            "answerChoices": [
+                {
+                    "id": "207ba5d5-499e-4998-8b33-c36d199720b9",
+                    "index": 0,
+                    "body": "$\\left(\\frac{3}{2}, \\frac{-1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 321
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "2739cdee-984e-41f4-b594-3a193ad3c177",
+                    "index": 1,
+                    "body": "$\\left(\\frac{5}{2}, \\frac{-1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 179
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "de252315-0a0f-4e9a-b489-9de938cddb66",
+                    "index": 2,
+                    "body": "$\\left(\\frac{3}{2},-1,0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 77
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "69c66fb7-e7cc-49c6-8da1-ef15994c8b85",
+                    "index": 3,
+                    "body": "$\\left(\\frac{5}{2}, \\frac{1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 239
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "dfd102c0-9ad2-4864-bdd1-b4a53b211e06",
+                    "index": 4,
+                    "body": "$\\left(\\frac{3}{2}, \\frac{1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 4974
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 1,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1671832356",
+            "timeSpentVideo": "273723125",
+            "submissions": 7689,
+            "submissionsCorrect": 4973,
+            "accuracy": 0.6467681102874236,
+            "difficulty": 0.60511618949801
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "a8147c1d-436d-417b-b060-5b1aaee3ce82",
+            "body": "",
+            "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+            "resources": [
+                {
+                    "id": "df47480f-2d3d-4d43-9839-8b351197786e",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=17"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "a8147c1d-436d-417b-b060-5b1aaee3ce82",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "4bdda272-bf22-4378-acf4-3b7a0f512f6c",
+                "name": "Line Parameterization",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "4604085309",
+                    "timeSpentVideo": "277517960",
+                    "submissions": 7689,
+                    "submissionsCorrect": 4973,
+                    "questions": 1,
+                    "accuracy": 0.6467681102874236,
+                    "difficulty": 0.60511618949801
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "A line $l$ passes through the points $A(1,-2,1)$ and $B(2,3,-1)$. At what point does this line intersect with the $x y$-plane?",
+            "solution": [
+                4
+            ],
+            "answerChoices": [
+                {
+                    "id": "207ba5d5-499e-4998-8b33-c36d199720b9",
+                    "index": 0,
+                    "body": "$\\left(\\frac{3}{2}, \\frac{-1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 321
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "2739cdee-984e-41f4-b594-3a193ad3c177",
+                    "index": 1,
+                    "body": "$\\left(\\frac{5}{2}, \\frac{-1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 179
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "de252315-0a0f-4e9a-b489-9de938cddb66",
+                    "index": 2,
+                    "body": "$\\left(\\frac{3}{2},-1,0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 77
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "69c66fb7-e7cc-49c6-8da1-ef15994c8b85",
+                    "index": 3,
+                    "body": "$\\left(\\frac{5}{2}, \\frac{1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 239
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "dfd102c0-9ad2-4864-bdd1-b4a53b211e06",
+                    "index": 4,
+                    "body": "$\\left(\\frac{3}{2}, \\frac{1}{2}, 0\\right)$",
+                    "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+                    "stats": {
+                        "count": 4974
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 1,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1671832356",
+            "timeSpentVideo": "273723125",
+            "submissions": 7689,
+            "submissionsCorrect": 4973,
+            "accuracy": 0.6467681102874236,
+            "difficulty": 0.60511618949801
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "a8147c1d-436d-417b-b060-5b1aaee3ce82",
+            "body": "",
+            "questionId": "d44531f1-3cf7-404d-bd10-e9a786484b8a",
+            "resources": [
+                {
+                    "id": "df47480f-2d3d-4d43-9839-8b351197786e",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=17"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "a8147c1d-436d-417b-b060-5b1aaee3ce82",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "4bdda272-bf22-4378-acf4-3b7a0f512f6c",
+                "name": "Line Parameterization",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "4604085309",
+                    "timeSpentVideo": "277517960",
+                    "submissions": 7689,
+                    "submissionsCorrect": 4973,
+                    "questions": 1,
+                    "accuracy": 0.6467681102874236,
+                    "difficulty": 0.60511618949801
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "type": "MULTIPLE_CHOICE",
+        "data": {
+            "body": "Classify the critical points $(2,2)$ and $(-3,0)$ of $g(x, y)$ if\n\n\n\\[\n\\begin{gathered}\ng_{x}(2,2)=0, g_{y}(2,2)=0, g_{x x}(2,2)=-2, g_{y y}(2,2)=-2, g_{x y}(2,2)=-1 \\\\\ng_{x}(-3,0)=0, g_{y}(-3,0)=0, g_{x x}(-3,0)=0, g_{y y}(-3,0)=-6, g_{x y}(-3,0)=-3\n\\end{gathered}\n\\]",
+            "solution": [
+                0
+            ],
+            "answerChoices": [
+                {
+                    "id": "313f0291-2114-4798-b718-4f268e2b9a79",
+                    "index": 0,
+                    "body": "A local maximum at $(2,2)$ and a saddle point at $(-3,0)$",
+                    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+                    "stats": {
+                        "count": 3307
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "338d5cbf-96c7-4463-b80e-d4b45ec847da",
+                    "index": 1,
+                    "body": "A local minimum at $(2,2)$ and a saddle point at $(-3,0)$",
+                    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+                    "stats": {
+                        "count": 464
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "c283aafd-91d1-4b29-9785-69e2390d2449",
+                    "index": 2,
+                    "body": "A local maximum at $(2,2)$ and a local minimum at $(-3,0)$",
+                    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+                    "stats": {
+                        "count": 253
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "889ebd44-56d8-4e9f-807f-314df074913b",
+                    "index": 3,
+                    "body": "A local minimum at $(2,2)$ and a local maximum at $(-3,0)$",
+                    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+                    "stats": {
+                        "count": 139
+                    },
+                    "resources": []
+                },
+                {
+                    "id": "a59b6384-0680-4a9a-bb06-aea9f85ace6b",
+                    "index": 4,
+                    "body": "A saddle point at $(2,2)$ and a local minimum at $(-3,0)$",
+                    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+                    "stats": {
+                        "count": 235
+                    },
+                    "resources": []
+                }
+            ]
+        },
+        "number": 12,
+        "disclaimer": "",
+        "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+        "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "parentId": null,
+        "flags": {
+            "published": true,
+            "disableRandomAnswers": false,
+            "answersStartHidden": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "701236782",
+            "timeSpentVideo": "105596423",
+            "submissions": 4695,
+            "submissionsCorrect": 3307,
+            "accuracy": 0.7043663471778487,
+            "difficulty": 0.549895724713243
+        },
+        "resources": [],
+        "exam": {
+            "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+            "number": 1,
+            "year": 2018,
+            "season": "FALL",
+            "disclaimer": "",
+            "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+            "flags": {
+                "published": true,
+                "practice": false
+            },
+            "stats": {
+                "count": 1,
+                "timeSpent": "17279016439",
+                "timeSpentVideo": "2569900758",
+                "submissions": 89458,
+                "submissionsCorrect": 56062,
+                "questions": 12,
+                "accuracy": 0.6266851483377675,
+                "difficulty": 0.6234563076442082
+            }
+        },
+        "explanation": {
+            "id": "03d3fae2-7309-4e69-a5f9-29128a0821aa",
+            "body": "",
+            "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+            "resources": [
+                {
+                    "id": "48d1fd52-3df9-448c-9674-9642f8a15fa5",
+                    "type": "VIDEO",
+                    "data": {
+                        "url": "https://youtu.be/PId1CHqVGmE?t=1536"
+                    },
+                    "courseId": null,
+                    "examId": null,
+                    "questionId": null,
+                    "explanationId": "03d3fae2-7309-4e69-a5f9-29128a0821aa",
+                    "applicationId": null,
+                    "answerChoiceId": null,
+                    "customExamId": null
+                }
+            ]
+        },
+        "topics": [
+            {
+                "id": "7ebf9728-5c70-4eca-bcfc-b664e78b78c8",
+                "name": "Min Max",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "stats": {
+                    "count": 1,
+                    "timeSpent": "33365577784",
+                    "timeSpentVideo": "3283127956",
+                    "submissions": 65375,
+                    "submissionsCorrect": 35173,
+                    "questions": 16,
+                    "accuracy": 0.538019120458891,
+                    "difficulty": 0.7120389461626575
+                }
+            }
+        ],
+        "children": []
+    }
+]

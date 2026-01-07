@@ -120,14 +120,52 @@ export class Course {
             name: data.name,
             subject: data.subject,
             color: data.color,
-            totalTimeSpent: data.totalTimeSpent,
-            totalQuestions: data.totalQuestions,
-            totalExams: data.totalExams,
-            difficulty: data.difficulty
+            totalTimeSpent: data.stats.timeSpent,
+            totalQuestions: data.stats.questions,
+            totalExams: data.stats.exams,
+            difficulty: data.stats.difficulty
+        })
+    }
+}
+
+export class Attempt {
+    id: string;
+    correct: boolean;
+    userSolution: string[];
+    type: QuestionType;
+
+    constructor({ id, correct, userSolution, type }: Attempt) {
+        this.id = id;
+        this.correct = correct;
+        this.userSolution = userSolution;
+        this.type = type;
+    }
+
+    static fromJSON(data: any): Attempt {
+        return new Attempt({
+            id: data.id,
+            correct: data.correct,
+            userSolution: data.userSolution,
+            type: data.type
         })
     }
 }
 
 export class QuestionStat {
+    id: string;
+    attempts: Attempt[];
+
+    constructor({ attempts, id }: QuestionStat) {
+        this.attempts = attempts;
+        this.id = id;
+
+    }
+
+    static fromJSON(data: any, id: string): QuestionStat {
+        return new QuestionStat({
+            attempts: data.attempts.map((a: any) => Attempt.fromJSON(a)),
+            id: id
+        })
+    }
 
 }

@@ -1,0 +1,3118 @@
+[
+    {
+        "id": "917504b9-0d67-4558-af71-b5961ee7b962",
+        "abbreviation": "AAE",
+        "number": 20300,
+        "name": "Aeromechanics I",
+        "subject": "Aero & Astro Engineering",
+        "color": "#d357fe",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "3598686899",
+            "timeSpentVideo": "1275446133",
+            "submissions": 8992,
+            "submissionsCorrect": 320,
+            "questions": 18,
+            "exams": 6,
+            "topics": 0,
+            "accuracy": 0.03558718861209965,
+            "difficulty": 1.2093048834139903
+        },
+        "events": [
+            {
+                "id": "28d945f9-1f1a-4b83-b9cb-fa7a823b6163",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-25T22:30:00.000Z",
+                "end": "2024-09-25T23:30:00.000Z",
+                "location": "UC 114, RHPH 172, PHYS 114",
+                "courseId": "917504b9-0d67-4558-af71-b5961ee7b962"
+            },
+            {
+                "id": "7d30d4f3-3240-4cd1-87c3-8493366d9460",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-31T22:30:00.000Z",
+                "end": "2024-10-31T23:30:00.000Z",
+                "location": "PHYS 114, BHEE 129",
+                "courseId": "917504b9-0d67-4558-af71-b5961ee7b962"
+            }
+        ],
+        "resources": [
+            {
+                "id": "334636fb-e2dd-4f22-b74a-63c42591061e",
+                "type": "LOGO",
+                "data": {
+                    "key": "S7MMHMvYffFdAmlvYLya6",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/S7MMHMvYffFdAmlvYLya6"
+                },
+                "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#a946cb"
+    },
+    {
+        "id": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+        "abbreviation": "AAE",
+        "number": 20400,
+        "name": "Aeromechanics II",
+        "subject": "Aero & Astro Engineering",
+        "color": "#b707cf",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1095331538",
+            "timeSpentVideo": "224352890",
+            "submissions": 2940,
+            "submissionsCorrect": 390,
+            "questions": 10,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.1326530612244898,
+            "difficulty": 1.1052631578947367
+        },
+        "events": [
+            {
+                "id": "642b8b4f-faae-40ff-a809-5dbf5f035b28",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-03T22:30:00.000Z",
+                "end": "2024-10-03T23:30:00.000Z",
+                "location": "UC 114",
+                "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db"
+            },
+            {
+                "id": "3befe061-6848-4965-a470-2fd037d4eba1",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-08T01:00:00.000Z",
+                "end": "2024-11-08T02:00:00.000Z",
+                "location": "RHPH 172",
+                "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db"
+            },
+            {
+                "id": "68fb40c1-6ad2-48b2-af59-38e27501e8e1",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-24T23:30:00.000Z",
+                "end": "2025-02-25T00:30:00.000Z",
+                "location": "PHYS 114, BHEE 129",
+                "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db"
+            },
+            {
+                "id": "f7e744a4-12be-4ea8-9355-a8f247698d1d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-04T00:00:00.000Z",
+                "end": "2025-04-04T01:00:00.000Z",
+                "location": "UC 114, RHPH 172, PHYS 114",
+                "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db"
+            }
+        ],
+        "resources": [
+            {
+                "id": "1c207bf1-2e09-42ce-9f8d-8599fcf3f6d5",
+                "type": "LOGO",
+                "data": {
+                    "key": "8rGoUA0VrokpBkODTwsdO",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8rGoUA0VrokpBkODTwsdO"
+                },
+                "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#9206a6"
+    },
+    {
+        "id": "30949ec4-4915-44f1-ad9d-c08300116610",
+        "abbreviation": "BIOL",
+        "number": 20400,
+        "name": "Human Anatomy And Physiology",
+        "subject": "Biological Sciences",
+        "color": "#669c35",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "4543282859",
+            "timeSpentVideo": "0",
+            "submissions": 65136,
+            "submissionsCorrect": 49089,
+            "questions": 80,
+            "exams": 2,
+            "topics": 0,
+            "accuracy": 0.753638540899042,
+            "difficulty": 0.496750260592311
+        },
+        "events": [
+            {
+                "id": "1cdb7c95-b024-48c2-8889-3ace18d47f28",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-05T01:00:00.000Z",
+                "end": "2025-02-05T02:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "30949ec4-4915-44f1-ad9d-c08300116610"
+            },
+            {
+                "id": "0cf08a4a-12f1-42a9-bf37-3433589cadf5",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-26T01:00:00.000Z",
+                "end": "2025-02-26T02:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "30949ec4-4915-44f1-ad9d-c08300116610"
+            },
+            {
+                "id": "adca2b21-4fac-460d-bcd5-50fda15f007f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-02T00:00:00.000Z",
+                "end": "2025-04-02T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "30949ec4-4915-44f1-ad9d-c08300116610"
+            },
+            {
+                "id": "e011219a-fdd2-4480-bf05-1e8293ebbeed",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-23T00:00:00.000Z",
+                "end": "2025-04-23T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "30949ec4-4915-44f1-ad9d-c08300116610"
+            }
+        ],
+        "resources": [
+            {
+                "id": "a9cc52a0-4a53-4087-916a-ea583874313e",
+                "type": "LOGO",
+                "data": {
+                    "key": "Ny8Pd7MUT-vG7beJTGluq",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Ny8Pd7MUT-vG7beJTGluq"
+                },
+                "courseId": "30949ec4-4915-44f1-ad9d-c08300116610",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#527d2a"
+    },
+    {
+        "id": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616",
+        "abbreviation": "CHM",
+        "number": 11500,
+        "name": "General Chemistry",
+        "subject": "Chemistry",
+        "color": "#2d3dff",
+        "disclaimer": "",
+        "studyModes": [
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "96360519695",
+            "timeSpentVideo": "14474379273",
+            "submissions": 824432,
+            "submissionsCorrect": 559077,
+            "questions": 201,
+            "exams": 6,
+            "topics": 0,
+            "accuracy": 0.6781359772546433,
+            "difficulty": 0.571885627240665
+        },
+        "events": [
+            {
+                "id": "110a5cef-90bc-455c-8994-76a9984ae883",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-18T00:00:00.000Z",
+                "end": "2024-09-18T01:00:00.000Z",
+                "location": "UC 114, STEW 183 (Loeb Plyhs), PHYS 114, ELLT 116 (ELLT)",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            },
+            {
+                "id": "29a78bea-3c29-4f2f-949b-9b9cb86cadce",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-16T00:00:00.000Z",
+                "end": "2024-10-16T01:00:00.000Z",
+                "location": "WTHR 172, UC 114, STEW 183 (Loeb Plyhs), ELLT 116 (ELLT)",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            },
+            {
+                "id": "6f61975a-534f-4a74-9cee-df1b012aacff",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-15T01:00:00.000Z",
+                "end": "2024-11-15T02:00:00.000Z",
+                "location": "WTHR 104, UC 114, ELLT 116 (ELLT), BRNG 2280",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            },
+            {
+                "id": "ddfefa96-4a31-4340-8cf1-a796d50827d2",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-12T23:30:00.000Z",
+                "end": "2025-02-13T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            },
+            {
+                "id": "645aa707-100c-43f6-9bcf-4a044860f474",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-12T22:30:00.000Z",
+                "end": "2025-03-12T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            },
+            {
+                "id": "4e02cc89-9806-4435-9a8e-b7b03e33fe0b",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-17T00:00:00.000Z",
+                "end": "2025-04-17T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616"
+            }
+        ],
+        "resources": [
+            {
+                "id": "b868630f-d508-4f05-9f90-9ef6758446c1",
+                "type": "LOGO",
+                "data": {
+                    "key": "wH_m3LH6zUDTONuCd-JBA",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/wH_m3LH6zUDTONuCd-JBA"
+                },
+                "courseId": "ac43bde0-42dd-42ef-a6e6-1b4c8b572616",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#2431cc"
+    },
+    {
+        "id": "b9779093-fa12-45fe-9bbf-3c2118913dd4",
+        "abbreviation": "CHM",
+        "number": 25500,
+        "name": "Organic Chemistry For The Life Sciences I",
+        "subject": "Chemistry",
+        "color": "#00a3d7",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2391866981",
+            "timeSpentVideo": "757321935",
+            "submissions": 12779,
+            "submissionsCorrect": 3500,
+            "questions": 81,
+            "exams": 6,
+            "topics": 0,
+            "accuracy": 0.27388684560607246,
+            "difficulty": 0.9743574811708984
+        },
+        "events": [
+            {
+                "id": "868b0946-9989-446b-82be-bcc20c4cef7b",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-13T01:00:00.000Z",
+                "end": "2025-02-13T02:00:00.000Z",
+                "location": "WTHR 200, PHYS 114, BHEE 129",
+                "courseId": "b9779093-fa12-45fe-9bbf-3c2118913dd4"
+            },
+            {
+                "id": "55ca18f1-0276-4d4f-af74-7acfa24467a5",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-13T00:00:00.000Z",
+                "end": "2025-03-13T01:00:00.000Z",
+                "location": "WTHR 200, WALC 1055 (Hiler Thtr), BHEE 129",
+                "courseId": "b9779093-fa12-45fe-9bbf-3c2118913dd4"
+            },
+            {
+                "id": "13765ac5-e9c5-4782-a77d-1a9ccbaec9b4",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-17T00:00:00.000Z",
+                "end": "2025-04-17T01:00:00.000Z",
+                "location": "WTHR 200, WALC 1055 (Hiler Thtr), BHEE 129",
+                "courseId": "b9779093-fa12-45fe-9bbf-3c2118913dd4"
+            }
+        ],
+        "resources": [
+            {
+                "id": "8b0885c8-ddcc-4139-bc7a-71965a85839a",
+                "type": "LOGO",
+                "data": {
+                    "key": "njUu5pejGpRUTD0UfaMMm",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/njUu5pejGpRUTD0UfaMMm"
+                },
+                "courseId": "b9779093-fa12-45fe-9bbf-3c2118913dd4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "2be85d3d-326c-413a-8857-75afe0b6c1ea",
+                "type": "LOGO",
+                "data": {
+                    "key": "njUu5pejGpRUTD0UfaMMm",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/njUu5pejGpRUTD0UfaMMm"
+                },
+                "courseId": "b9779093-fa12-45fe-9bbf-3c2118913dd4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#0082ac"
+    },
+    {
+        "id": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "abbreviation": "CS",
+        "number": 15900,
+        "name": "C Programming",
+        "subject": "Computer Sciences",
+        "color": "#3BA99C",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "192364691848",
+            "timeSpentVideo": "4827561615",
+            "submissions": 1714010,
+            "submissionsCorrect": 1142368,
+            "questions": 549,
+            "exams": 16,
+            "topics": 0,
+            "accuracy": 0.6664885269047438,
+            "difficulty": 0.583521185921557
+        },
+        "events": [
+            {
+                "id": "2b921efb-f1f6-47f0-aa1f-8590c3e8c110",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-26T22:30:00.000Z",
+                "end": "2024-09-26T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445"
+            },
+            {
+                "id": "1232fcdd-f27c-4b6d-a048-0bb4abfc12dc",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-29T00:00:00.000Z",
+                "end": "2024-10-29T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445"
+            },
+            {
+                "id": "120fd091-50cc-4592-847c-fcc3de20d720",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-19T01:00:00.000Z",
+                "end": "2025-02-19T02:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445"
+            },
+            {
+                "id": "b29a588b-9245-49b5-8063-e0eb53b61198",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-28T00:00:00.000Z",
+                "end": "2025-03-28T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445"
+            }
+        ],
+        "resources": [
+            {
+                "id": "00fb4459-d26f-4a94-9060-c7ab380457b2",
+                "type": "LOGO",
+                "data": {
+                    "key": "U_FXBXfWfJ5Dfoz0MaUGK",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/U_FXBXfWfJ5Dfoz0MaUGK"
+                },
+                "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#2f877d"
+    },
+    {
+        "id": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+        "abbreviation": "CS",
+        "number": 17700,
+        "name": "Programming With Multimedia Objects",
+        "subject": "Computer Sciences",
+        "color": "#3BA5A8",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "3755306460",
+            "timeSpentVideo": "316354203",
+            "submissions": 37840,
+            "submissionsCorrect": 26449,
+            "questions": 54,
+            "exams": 4,
+            "topics": 0,
+            "accuracy": 0.6989693446088795,
+            "difficulty": 0.5515550869794412
+        },
+        "events": [],
+        "resources": [
+            {
+                "id": "08381ce7-b6ec-4aa6-8952-d23fc97e2005",
+                "type": "LOGO",
+                "data": {
+                    "key": "RijQAKkDT25VWNXCjoSOO",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/RijQAKkDT25VWNXCjoSOO"
+                },
+                "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "f3fd25e4-00a8-463f-9eac-e70e59949bcd",
+                "type": "LOGO",
+                "data": {
+                    "key": "RijQAKkDT25VWNXCjoSOO",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/RijQAKkDT25VWNXCjoSOO"
+                },
+                "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#2f8486"
+    },
+    {
+        "id": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "abbreviation": "CS",
+        "number": 25100,
+        "name": "Data Structures And Algorithms",
+        "subject": "Computer Sciences",
+        "color": "#3B8BA8",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "22815195699",
+            "timeSpentVideo": "1426651311",
+            "submissions": 143007,
+            "submissionsCorrect": 104525,
+            "questions": 130,
+            "exams": 9,
+            "topics": 0,
+            "accuracy": 0.7309082772171992,
+            "difficulty": 0.5192530763694299
+        },
+        "events": [
+            {
+                "id": "55b87289-ab73-45a9-8f06-9f1ca2461937",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-13T00:00:00.000Z",
+                "end": "2024-09-13T01:30:00.000Z",
+                "location": "WTHR 200, CL50 224, BHEE 129",
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb"
+            },
+            {
+                "id": "8843e8cf-e256-4d3b-83f8-0a9216f89d57",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-10T00:00:00.000Z",
+                "end": "2024-10-10T01:30:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), CL50 224, BHEE 170, BHEE 129",
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb"
+            },
+            {
+                "id": "70674c2e-c20d-4722-a436-c4ea8f12b6a9",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-08T01:00:00.000Z",
+                "end": "2024-11-08T02:30:00.000Z",
+                "location": "WTHR 200, CL50 224, BHEE 129",
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb"
+            }
+        ],
+        "resources": [
+            {
+                "id": "3fee111e-ff0a-4952-99d2-d2d8c15fdb89",
+                "type": "LOGO",
+                "data": {
+                    "key": "-I_hLDYZUPOdRaIzwYiaC",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-I_hLDYZUPOdRaIzwYiaC"
+                },
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "26dae51a-8e52-4ab4-a5ff-64bb79a621a2",
+                "type": "LOGO",
+                "data": {
+                    "key": "-I_hLDYZUPOdRaIzwYiaC",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-I_hLDYZUPOdRaIzwYiaC"
+                },
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "015f1e2b-a6ee-4744-aa30-4196db77c6eb",
+                "type": "LOGO",
+                "data": {
+                    "key": "-I_hLDYZUPOdRaIzwYiaC",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-I_hLDYZUPOdRaIzwYiaC"
+                },
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "a5313ab4-e5a2-4a11-b575-68af063034a2",
+                "type": "LOGO",
+                "data": {
+                    "key": "-I_hLDYZUPOdRaIzwYiaC",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-I_hLDYZUPOdRaIzwYiaC"
+                },
+                "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#2f6f86"
+    },
+    {
+        "id": "0c31bd23-e902-401b-ac3f-6262584f8b80",
+        "abbreviation": "ECON",
+        "number": 25100,
+        "name": "Microeconomics-Honors",
+        "subject": "Economics",
+        "color": "#00ff11",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "8176510342",
+            "timeSpentVideo": "0",
+            "submissions": 73489,
+            "submissionsCorrect": 51782,
+            "questions": 180,
+            "exams": 4,
+            "topics": 0,
+            "accuracy": 0.7046224605042931,
+            "difficulty": 0.5456556007011918
+        },
+        "events": [],
+        "resources": [
+            {
+                "id": "e920cfed-2e91-4543-b3d0-5a7ddb925e39",
+                "type": "LOGO",
+                "data": {
+                    "key": "DS4b7TA3Q1MjNfKkhSPch",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/DS4b7TA3Q1MjNfKkhSPch"
+                },
+                "courseId": "0c31bd23-e902-401b-ac3f-6262584f8b80",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#00cc0e"
+    },
+    {
+        "id": "afcc2cc8-493e-4e84-9082-d91f84f04c36",
+        "abbreviation": "ECON",
+        "number": 25200,
+        "name": "Macroeconomics",
+        "subject": "Economics",
+        "color": "#235803",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "18079684733",
+            "timeSpentVideo": "97906090",
+            "submissions": 180963,
+            "submissionsCorrect": 138166,
+            "questions": 130,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.76350414173063,
+            "difficulty": 0.48664139001342077
+        },
+        "events": [
+            {
+                "id": "a77b2670-912b-4fef-b565-c49297c24e17",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-24T00:00:00.000Z",
+                "end": "2024-09-24T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36"
+            },
+            {
+                "id": "30bbc15e-2349-40ce-817e-2c7340c3a1b7",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-24T00:00:00.000Z",
+                "end": "2024-10-24T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36"
+            },
+            {
+                "id": "b38d7d2c-7bd2-4979-a75d-15ebaca2599c",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-14T01:00:00.000Z",
+                "end": "2024-11-14T02:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36"
+            },
+            {
+                "id": "f97b5eba-d198-400d-8ab3-a8afa05d9c0a",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-18T01:00:00.000Z",
+                "end": "2025-02-18T02:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36"
+            },
+            {
+                "id": "82ecf18b-92d4-4018-8079-03a3fed41469",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-26T00:00:00.000Z",
+                "end": "2025-03-26T01:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36"
+            }
+        ],
+        "resources": [
+            {
+                "id": "824e8e09-0fb4-4d0b-91bc-c7cf1a6f9a07",
+                "type": "LOGO",
+                "data": {
+                    "key": "aVhi3MW7wR--S31FLMHM9",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/aVhi3MW7wR--S31FLMHM9"
+                },
+                "courseId": "afcc2cc8-493e-4e84-9082-d91f84f04c36",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#1c4602"
+    },
+    {
+        "id": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+        "abbreviation": "ECE",
+        "number": 20001,
+        "name": "Electrical Engineering Fundamentals I",
+        "subject": "Electrical & Computer Engr",
+        "color": "#5E3BA8",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "13821752424",
+            "timeSpentVideo": "3237930234",
+            "submissions": 68731,
+            "submissionsCorrect": 39812,
+            "questions": 75,
+            "exams": 5,
+            "topics": 0,
+            "accuracy": 0.5792437182639566,
+            "difficulty": 0.6708714096845898
+        },
+        "events": [
+            {
+                "id": "e7dfc2a0-5ee1-4603-86bf-669c15c1b895",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-16T22:30:00.000Z",
+                "end": "2024-09-16T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180"
+            },
+            {
+                "id": "56e5d017-00f5-498e-b42d-aabfd6b75d88",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-24T22:30:00.000Z",
+                "end": "2024-10-24T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180"
+            },
+            {
+                "id": "3b4aba5b-3bd8-4aea-8e6c-929cde139290",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-11T23:30:00.000Z",
+                "end": "2025-02-12T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180"
+            },
+            {
+                "id": "b74283c2-6e8c-473b-848e-072b6a5949ff",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-26T22:30:00.000Z",
+                "end": "2025-03-26T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180"
+            }
+        ],
+        "resources": [
+            {
+                "id": "b7d844a0-ec5b-4613-a026-3de4a1811428",
+                "type": "LOGO",
+                "data": {
+                    "key": "dWK3zZONx0EHW0jO6UZnO",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/dWK3zZONx0EHW0jO6UZnO"
+                },
+                "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#4b2f86"
+    },
+    {
+        "id": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+        "abbreviation": "ECE",
+        "number": 20002,
+        "name": "Electrical Engineering Fundamentals II",
+        "subject": "Electrical & Computer Engr",
+        "color": "#733BA8",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "6061904304",
+            "timeSpentVideo": "1410917349",
+            "submissions": 21499,
+            "submissionsCorrect": 11168,
+            "questions": 29,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.5194660216754268,
+            "difficulty": 0.73062410296773
+        },
+        "events": [
+            {
+                "id": "670ef39d-6591-46eb-8bab-c9dbfd0c9a2f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-24T00:00:00.000Z",
+                "end": "2024-09-24T01:00:00.000Z",
+                "location": "SMTH 108, PHYS 114",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            },
+            {
+                "id": "01f0ce81-b072-4835-9f1a-8efe2955707d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-24T00:00:00.000Z",
+                "end": "2024-10-24T01:00:00.000Z",
+                "location": "SMTH 108, LILY G126",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            },
+            {
+                "id": "db3e7e10-2d71-4559-8a31-5b362edf30c4",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-21T01:00:00.000Z",
+                "end": "2024-11-21T02:00:00.000Z",
+                "location": "LILY 1105",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            },
+            {
+                "id": "37f85529-1e7e-4510-941d-e41839edeb17",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-21T01:00:00.000Z",
+                "end": "2025-02-21T02:00:00.000Z",
+                "location": "LILY G126, LILY 1105, CL50 224",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            },
+            {
+                "id": "c0162fd1-821d-4af8-b474-357ea7349868",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-14T00:00:00.000Z",
+                "end": "2025-03-14T01:00:00.000Z",
+                "location": "CL50 224, BHEE 170, BHEE 129",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            },
+            {
+                "id": "25e1fd78-16c8-4f57-a15d-b552f6672339",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-24T00:00:00.000Z",
+                "end": "2025-04-24T01:00:00.000Z",
+                "location": "WTHR 200, WTHR 104, CL50 224",
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685"
+            }
+        ],
+        "resources": [
+            {
+                "id": "782dbb05-f56c-4852-9ca1-81155b83b25c",
+                "type": "LOGO",
+                "data": {
+                    "key": "ze2isr7O18SIEkkhbsLs4",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/ze2isr7O18SIEkkhbsLs4"
+                },
+                "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#5c2f86"
+    },
+    {
+        "id": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+        "abbreviation": "MA",
+        "number": 15800,
+        "name": "Precalculus - Functions And Trigonometry",
+        "subject": "Mathematics",
+        "color": "#b30000",
+        "disclaimer": "TEST",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "183536320",
+            "timeSpentVideo": "8302902",
+            "submissions": 1376,
+            "submissionsCorrect": 934,
+            "questions": 45,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.6787790697674418,
+            "difficulty": 0.5833333333333334
+        },
+        "events": [
+            {
+                "id": "d47e7645-42e1-4581-82ee-8548db9fa07f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-17T00:00:00.000Z",
+                "end": "2024-09-17T01:00:00.000Z",
+                "location": "WTHR 200, WALC 1055 (Hiler Thtr), LILY 1105, BHEE 129",
+                "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4"
+            },
+            {
+                "id": "68d90a50-0028-4c5d-9d46-4931e8267c59",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-15T00:00:00.000Z",
+                "end": "2024-10-15T01:00:00.000Z",
+                "location": "WTHR 200, WALC 1055 (Hiler Thtr), LILY 1105, BHEE 129",
+                "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4"
+            },
+            {
+                "id": "b5cccf54-99f3-44ab-be85-144802df3ff4",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-15T01:00:00.000Z",
+                "end": "2024-11-15T02:00:00.000Z",
+                "location": "PHYS 114, PHYS 112, LILY G126, LILY 1105, CL50 224",
+                "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4"
+            }
+        ],
+        "resources": [
+            {
+                "id": "c8e14eb4-3afc-48fd-b693-8dfbb30891a8",
+                "type": "LOGO",
+                "data": {
+                    "key": "v2QWX2QXi_vZnCbWIpZ1R",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/v2QWX2QXi_vZnCbWIpZ1R"
+                },
+                "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "0af58f5c-c710-45c8-a48d-b72425c585d3",
+                "type": "LOGO",
+                "data": {
+                    "key": "v2QWX2QXi_vZnCbWIpZ1R",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/v2QWX2QXi_vZnCbWIpZ1R"
+                },
+                "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#8f0000"
+    },
+    {
+        "id": "540f4240-f215-4941-b90d-0cd753b212fc",
+        "abbreviation": "MA",
+        "number": 16010,
+        "name": "Applied Calculus I",
+        "subject": "Mathematics",
+        "color": "#9d0012",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2345427964",
+            "timeSpentVideo": "219971977",
+            "submissions": 11507,
+            "submissionsCorrect": 7584,
+            "questions": 36,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.6590770835143825,
+            "difficulty": 0.5922934436116137
+        },
+        "events": [
+            {
+                "id": "5b4cae52-899f-4315-8695-7a828408c189",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-17T00:00:00.000Z",
+                "end": "2024-09-17T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "540f4240-f215-4941-b90d-0cd753b212fc"
+            },
+            {
+                "id": "f2cd1963-3277-469c-8f65-d9fd97cad000",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-15T00:00:00.000Z",
+                "end": "2024-10-15T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "540f4240-f215-4941-b90d-0cd753b212fc"
+            },
+            {
+                "id": "bb8847ff-13e1-494a-93da-46c34aafd5ef",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-11T23:30:00.000Z",
+                "end": "2024-11-12T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "540f4240-f215-4941-b90d-0cd753b212fc"
+            }
+        ],
+        "resources": [
+            {
+                "id": "dd01f05e-c896-4b69-98d5-1a870f4441c1",
+                "type": "LOGO",
+                "data": {
+                    "key": "Pt0b4g3Rmxv67eDIuDxaZ",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Pt0b4g3Rmxv67eDIuDxaZ"
+                },
+                "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#7e000e"
+    },
+    {
+        "id": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+        "abbreviation": "MA",
+        "number": 16100,
+        "name": "Plane Analytic Geometry And Calculus I",
+        "subject": "Mathematics",
+        "color": "#860124",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "39386071776",
+            "timeSpentVideo": "7313498241",
+            "submissions": 251610,
+            "submissionsCorrect": 153185,
+            "questions": 170,
+            "exams": 12,
+            "topics": 0,
+            "accuracy": 0.6088192043241525,
+            "difficulty": 0.6412240276508681
+        },
+        "events": [
+            {
+                "id": "6f0c11cb-41aa-4abe-9e58-04b7f4f61893",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-20T00:00:00.000Z",
+                "end": "2024-09-20T01:00:00.000Z",
+                "location": "WTHR 200, SMTH 118, SMTH 108, RHPH 164, RAWL 1062, PHYS 112, MSEE B012, MJIS 1001, LILY 3118, LILY 1105, KRAN G016, HAMP 1252, HAMP 1144",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            },
+            {
+                "id": "c733a232-0c28-4d1c-96f1-8ecb70213523",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-11T00:00:00.000Z",
+                "end": "2024-10-11T01:00:00.000Z",
+                "location": "WTHR 200, WTHR 104, WALC 1055 (Hiler Thtr), SMTH 108, RAWL 1086, LILY G126, CL50 224, BHEE 170",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            },
+            {
+                "id": "250633e6-d852-4495-890e-6ceca00f4a7a",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-13T01:00:00.000Z",
+                "end": "2024-11-13T02:00:00.000Z",
+                "location": "RHPH 172, PHYS 114, MTHW 210, MSEE B012, MJIS 1001, LILY 3118, HORT 117, HAMP 1144, GRIS 103, CL50 224, BHEE 129",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            },
+            {
+                "id": "7e739b33-cb80-43c4-83a4-a00243a4b4a4",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-14T01:00:00.000Z",
+                "end": "2025-02-14T02:00:00.000Z",
+                "location": "WTHR 200, WTHR 172, BHEE 170",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            },
+            {
+                "id": "cf45189e-7b9a-4e40-aef0-6292a6c1751e",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-12T00:00:00.000Z",
+                "end": "2025-03-12T01:00:00.000Z",
+                "location": "WTHR 200, WTHR 172, MATH 175",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            },
+            {
+                "id": "f7c56869-5b9d-43f9-8e50-f993a9b4eb0b",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-18T00:00:00.000Z",
+                "end": "2025-04-18T01:00:00.000Z",
+                "location": "WTHR 200, WTHR 172, BHEE 170",
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415"
+            }
+        ],
+        "resources": [
+            {
+                "id": "40673d73-35df-45b9-8c90-647968218097",
+                "type": "LOGO",
+                "data": {
+                    "key": "xVuznvG4egRuWOxe1QZEs",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/xVuznvG4egRuWOxe1QZEs"
+                },
+                "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#6b011d"
+    },
+    {
+        "id": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+        "abbreviation": "MA",
+        "number": 16200,
+        "name": "Plane Analytic Geometry And Calculus II",
+        "subject": "Mathematics",
+        "color": "#700136",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "174491424306",
+            "timeSpentVideo": "27555029011",
+            "submissions": 957240,
+            "submissionsCorrect": 583661,
+            "questions": 292,
+            "exams": 20,
+            "topics": 0,
+            "accuracy": 0.6097331912582007,
+            "difficulty": 0.6402782710426808
+        },
+        "events": [
+            {
+                "id": "9188b9b0-6037-46cf-bb97-90cf52ab9833",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-19T22:30:00.000Z",
+                "end": "2024-09-19T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            },
+            {
+                "id": "89d5dbec-ed37-4c2e-b68a-3552a666256d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-23T00:00:00.000Z",
+                "end": "2024-10-23T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            },
+            {
+                "id": "14a55893-e9a6-4577-85ca-180ce937e936",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-13T01:00:00.000Z",
+                "end": "2024-11-13T02:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            },
+            {
+                "id": "d0907525-2451-4617-8221-9d44f9b720ac",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-14T01:00:00.000Z",
+                "end": "2025-02-14T02:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            },
+            {
+                "id": "72110de7-353c-4525-b6ea-319acc32783f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-13T22:30:00.000Z",
+                "end": "2025-03-13T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            },
+            {
+                "id": "d3e3c0e2-3bcb-4a9b-8913-4c4b6accb13f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-18T00:00:00.000Z",
+                "end": "2025-04-18T01:00:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), LILY 1105, CL50 224, BHEE 129",
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5"
+            }
+        ],
+        "resources": [
+            {
+                "id": "44753324-1087-42aa-aa47-3e7f14f6adad",
+                "type": "LOGO",
+                "data": {
+                    "key": "1boYhntcMycxAer5WAr_R",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/1boYhntcMycxAer5WAr_R"
+                },
+                "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#5a012b"
+    },
+    {
+        "id": "24539138-2fa4-4a53-8976-88d5db5345a4",
+        "abbreviation": "MA",
+        "number": 16600,
+        "name": "Analytic Geometry And Calculus II",
+        "subject": "Mathematics",
+        "color": "#5a0148",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "2730296499",
+            "timeSpentVideo": "378396516",
+            "submissions": 14320,
+            "submissionsCorrect": 8041,
+            "questions": 60,
+            "exams": 5,
+            "topics": 0,
+            "accuracy": 0.5615223463687151,
+            "difficulty": 0.6889042995839112
+        },
+        "events": [
+            {
+                "id": "22a069ac-1a13-4467-8da8-78bbdd5766b9",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-11T01:00:00.000Z",
+                "end": "2025-02-11T02:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4"
+            },
+            {
+                "id": "15778d0c-f6fa-470e-bbec-3efde8e9c985",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-10T22:30:00.000Z",
+                "end": "2025-03-10T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4"
+            },
+            {
+                "id": "1f7794be-f1c1-49a2-83d0-3514fe25fc8b",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-15T00:00:00.000Z",
+                "end": "2025-04-15T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4"
+            }
+        ],
+        "resources": [
+            {
+                "id": "88315ae4-4738-405b-8f2c-17a49fc7a011",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "19daede1-9bee-4846-83a6-3e8662ef5b57",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "1e2137ba-e310-49d8-b077-e5858b411030",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "77d392a5-7c3c-42a8-85d6-6a9a1e83b7f3",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "dc90550d-acc0-43b0-95be-d2d0c4766e11",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "67b1bdf5-e333-49b1-a707-6fd854350206",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "fbcc13d9-6cc9-4ab0-b8f7-3d2d780d3954",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "280bc647-af08-4de1-88c3-8a205106f3d9",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "a3491d44-77bf-4b22-9515-0d5888746fbd",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "64f685be-3faa-49e2-ad9c-d1ea00dce593",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "873be4a2-3225-4f50-8aea-1a498f72eccd",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "e7a34469-d9b1-468d-807a-cdaf39382191",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "0dc71763-8659-4afa-8882-361accb054ff",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "7b74a2b4-6607-433f-af2b-5e5d924fbfd4",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "c4653bb4-be9c-4f6f-a4d8-b6019909768f",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "6b3af282-f044-4f0a-b72d-38ea1e27bbe3",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "e190d60d-b00c-42db-a134-e1d0014fd684",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "832f3355-4172-4862-92c8-cea187643917",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "305a222c-dc1b-41fa-8693-968b41b456f9",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "a25f1334-87cd-4e94-ac9d-c1dc1605a61c",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "16e94ba8-bc16-49d7-9987-272bd33878cb",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "0939fcaa-5b4f-424e-a08f-4fd104f32e11",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "cfe2c97d-879e-4e7d-9171-37bac034630d",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "ff5c80ba-244e-488b-ad20-0f9c0e32062c",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "0d41332f-3772-454c-8995-6c3fb23f4df9",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "257a46b1-5b5c-452e-ab32-f8871c044421",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "82809876-e4a4-459c-9a41-86416d6fff07",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "7fca5259-dd10-43d3-b1e5-2f40ef88ec24",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "99e3c0ee-48fd-4afd-b57d-b3e8ef1afd26",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "ad93a2ae-b398-4dcc-8be8-9695c0976176",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "12c1380b-d7a8-4c30-9252-cb023d6cebee",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "f316ab7e-97ee-4319-857c-00897fe7dec0",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "489e4e16-a7ef-457b-855e-a3b0ad27f274",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "c9ba23de-444c-46ac-9d37-f96aed690c70",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "c7095bf4-8962-4618-a3d3-cff82fddc690",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "6e144d21-b41b-46f5-aa6e-6e037bf5877b",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "db4854a9-2ad9-4a2c-a5d8-835c16922647",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "da28de5d-49c0-4d5f-b705-154289b69704",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "a30c040b-9d8f-4b74-bcf1-5023750994fb",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "24666d64-242c-4c03-a5d0-7746b4eb98a0",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "80d8ecdd-ff85-4b28-a339-72ecc58fbe6b",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "e9f5f6cf-095f-4d2d-8eea-c04c10185c07",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "b080450a-99ca-4e48-9168-b8e8a868e621",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "43d1ee2a-e02f-4ba4-a7bb-99770d33b692",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "4f0292cd-0408-450c-92f2-243e865e9486",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "61f92d8c-f2ed-4ce1-b6fc-1d37eed61b81",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "c48bc0d1-5491-4154-b2f7-ff88651a49b6",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "10432468-564f-4606-9d72-0d8fffdb9390",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "712e7613-116a-4c44-af2a-d7dcd7e88b54",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "e76df8c0-1181-4403-8f7d-4dbdd85806de",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "86727ee5-021d-401b-aa4f-a0cd9378ab6e",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "a480f726-31a6-4c5a-ac09-83da1046608d",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "2a5f5c5b-c975-4cf4-96af-f609fbe2ac82",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "eb2f3629-9601-435e-b719-8ec45e192cf2",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "f63c1fd3-d4fe-4e54-89de-7e1c478d2a77",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "825364aa-37af-485e-a228-f3926d51ef19",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "30fc2c0e-7d39-42c2-8b20-5f58099eab6f",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "d4bcc4d0-4766-474c-aea5-13bb976f89d6",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "7b5973d9-4ae6-4b66-85b5-2492a802fa56",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "1a97ac41-288c-4f4c-a12d-e05beb50cea8",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "80f1a1d6-601c-4fe0-8945-f3a9a779cefd",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "ba827563-2837-4d46-942b-95f0a0e9a052",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "04eecd1f-c67b-4dc9-8a3c-b4373615279a",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "cfe58605-4fd6-4462-a9a5-26463b98abb5",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "4bcac587-4167-4055-84ee-e10e0b0456cf",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "446b4628-9925-44a5-aa16-b4bebb4d93e2",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "f77e673d-3f23-4400-979c-577df61e924f",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "9334a808-b3fb-4e80-b6fd-4f023c22a594",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            },
+            {
+                "id": "f05b9c25-9c0b-4559-a2e4-7dc9e99147fb",
+                "type": "LOGO",
+                "data": {
+                    "key": "OfVNNvPqP9HhddiDSwKD1",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OfVNNvPqP9HhddiDSwKD1"
+                },
+                "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#48013a"
+    },
+    {
+        "id": "847b72f2-2293-47ee-849a-94c79e4fab16",
+        "abbreviation": "MA",
+        "number": 26100,
+        "name": "Multivariate Calculus",
+        "subject": "Mathematics",
+        "color": "#43015a",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "389436423580",
+            "timeSpentVideo": "63922989780",
+            "submissions": 1808489,
+            "submissionsCorrect": 1070135,
+            "questions": 364,
+            "exams": 24,
+            "topics": 0,
+            "accuracy": 0.5917287857432365,
+            "difficulty": 0.658276286099274
+        },
+        "events": [
+            {
+                "id": "427e526b-cecf-468c-8340-1a4bd4d43276",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-01T22:30:00.000Z",
+                "end": "2024-10-01T23:30:00.000Z",
+                "location": "STEW 183 (Loeb Plyhs), ELLT 116 (ELLT)",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16"
+            },
+            {
+                "id": "f4800768-7258-4b49-a6e9-afbe9d06f30d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-13T23:30:00.000Z",
+                "end": "2024-11-14T00:30:00.000Z",
+                "location": "PHYS 114, FRNY G140, ELLT 116 (ELLT)",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16"
+            },
+            {
+                "id": "01fc8cfe-3265-4d45-bd32-a097785d13ac",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-26T23:30:00.000Z",
+                "end": "2025-02-27T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16"
+            },
+            {
+                "id": "e8965086-81ef-45cd-945e-33afb410aba6",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-08T22:30:00.000Z",
+                "end": "2025-04-08T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16"
+            }
+        ],
+        "resources": [
+            {
+                "id": "2b7ed41e-4774-4ff1-ba5e-d3d3f30f166f",
+                "type": "LOGO",
+                "data": {
+                    "key": "bYI2qM5r9Ag0vcVkFQF6X",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/bYI2qM5r9Ag0vcVkFQF6X"
+                },
+                "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#360148"
+    },
+    {
+        "id": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+        "abbreviation": "MA",
+        "number": 26200,
+        "name": "Linear Algebra And Differential Equations",
+        "subject": "Mathematics",
+        "color": "#2d026c",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "36840639258",
+            "timeSpentVideo": "5607722494",
+            "submissions": 165563,
+            "submissionsCorrect": 98989,
+            "questions": 192,
+            "exams": 13,
+            "topics": 0,
+            "accuracy": 0.5978932490955104,
+            "difficulty": 0.6521658427047681
+        },
+        "events": [
+            {
+                "id": "d099f880-dd78-4f90-8b79-eecff74faee3",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-20T01:00:00.000Z",
+                "end": "2024-11-20T02:00:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), BHEE 129",
+                "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab"
+            },
+            {
+                "id": "ca752842-07ed-4f9b-b2d0-c9a06e346225",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-13T23:30:00.000Z",
+                "end": "2025-02-14T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab"
+            },
+            {
+                "id": "df92e3f2-95e1-4553-a882-a65c05b00403",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-09T00:00:00.000Z",
+                "end": "2025-04-09T01:00:00.000Z",
+                "location": "PHYS 203, PHYS 112, MATH 175, LILY 1105, CL50 224",
+                "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab"
+            }
+        ],
+        "resources": [
+            {
+                "id": "f262c0fa-e48a-4608-9d1a-0b75005dac5a",
+                "type": "LOGO",
+                "data": {
+                    "key": "RJ1ykvN4ariTYP89Fm_xJ",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/RJ1ykvN4ariTYP89Fm_xJ"
+                },
+                "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#240256"
+    },
+    {
+        "id": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+        "abbreviation": "MA",
+        "number": 26500,
+        "name": "Linear Algebra",
+        "subject": "Mathematics",
+        "color": "#16027e",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "117168446491",
+            "timeSpentVideo": "28298131742",
+            "submissions": 625881,
+            "submissionsCorrect": 358414,
+            "questions": 215,
+            "exams": 13,
+            "topics": 0,
+            "accuracy": 0.5726551852508703,
+            "difficulty": 0.6773564213610317
+        },
+        "events": [
+            {
+                "id": "24d26078-1431-4fbc-8df5-ffea29996644",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-03T00:00:00.000Z",
+                "end": "2024-10-03T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c"
+            },
+            {
+                "id": "88db7bb9-2d4c-4193-ad8a-7c6985632e27",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-05T23:30:00.000Z",
+                "end": "2024-11-06T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c"
+            },
+            {
+                "id": "ea4f0d1b-4de4-4da7-8c09-15faf89c808f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-27T01:00:00.000Z",
+                "end": "2025-02-27T02:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c"
+            },
+            {
+                "id": "f10af2fb-84b1-4b47-9803-aa8f7cb4ebde",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-07T22:30:00.000Z",
+                "end": "2025-04-07T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c"
+            }
+        ],
+        "resources": [
+            {
+                "id": "94931701-d8d6-424a-beec-a6192cc322d7",
+                "type": "LOGO",
+                "data": {
+                    "key": "-CfxT_7I7DQcYKTEnXnx2",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-CfxT_7I7DQcYKTEnXnx2"
+                },
+                "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#120265"
+    },
+    {
+        "id": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+        "abbreviation": "MA",
+        "number": 26600,
+        "name": "Ordinary Differential Equations",
+        "subject": "Mathematics",
+        "color": "#000290",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "90059847323",
+            "timeSpentVideo": "12504662290",
+            "submissions": 362931,
+            "submissionsCorrect": 222704,
+            "questions": 257,
+            "exams": 19,
+            "topics": 0,
+            "accuracy": 0.6136262815796942,
+            "difficulty": 0.6364050177533048
+        },
+        "events": [
+            {
+                "id": "a10ab4ba-1b92-462d-89ae-9788e242e696",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-02T00:00:00.000Z",
+                "end": "2024-10-02T01:00:00.000Z",
+                "location": "WTHR 200, LILY 1105, CL50 224, BHEE 129",
+                "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3"
+            },
+            {
+                "id": "b1c32ee4-2475-45ae-ad24-0bdc74ac475f",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-14T01:00:00.000Z",
+                "end": "2024-11-14T02:00:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), LILY 1105, CL50 224, BHEE 170, BHEE 129",
+                "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3"
+            },
+            {
+                "id": "577c2cab-f3d8-4626-a28c-a84f5cafe45d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-25T23:30:00.000Z",
+                "end": "2025-02-26T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3"
+            },
+            {
+                "id": "c23cc0f7-12b3-41b3-a723-62b9a2755b2d",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-09T00:00:00.000Z",
+                "end": "2025-04-09T01:00:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3"
+            }
+        ],
+        "resources": [
+            {
+                "id": "b71c9b8d-54fb-4c77-be43-84a95f96b113",
+                "type": "LOGO",
+                "data": {
+                    "key": "eSwUDUSXpGxVIxal8rhiw",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/eSwUDUSXpGxVIxal8rhiw"
+                },
+                "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#000273"
+    },
+    {
+        "id": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "abbreviation": "PHYS",
+        "number": 17200,
+        "name": "Modern Mechanics",
+        "subject": "Physics",
+        "color": "#178fe8",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "20078121591",
+            "timeSpentVideo": "2794508627",
+            "submissions": 152529,
+            "submissionsCorrect": 102122,
+            "questions": 144,
+            "exams": 9,
+            "topics": 0,
+            "accuracy": 0.6695251394816724,
+            "difficulty": 0.5805859305898617
+        },
+        "events": [
+            {
+                "id": "4c0b12bd-2444-4fbe-9842-f7ee965e69ae",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-09-23T22:30:00.000Z",
+                "end": "2024-09-23T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3"
+            },
+            {
+                "id": "856b0df4-548c-4750-9e68-f8b3bfdb96c4",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-28T22:30:00.000Z",
+                "end": "2024-10-28T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3"
+            },
+            {
+                "id": "1371f088-0ddb-4be7-b4d3-5351e4b2dbb2",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-02-17T23:30:00.000Z",
+                "end": "2025-02-18T00:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3"
+            },
+            {
+                "id": "1e532468-5514-4b53-859d-042722cb8770",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-31T22:30:00.000Z",
+                "end": "2025-03-31T23:30:00.000Z",
+                "location": "ELLT 116 (ELLT)",
+                "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3"
+            }
+        ],
+        "resources": [
+            {
+                "id": "e077a050-1995-4b26-8476-a4cd4b14eafa",
+                "type": "LOGO",
+                "data": {
+                    "key": "whKnBuo4xUUi7wTm8Yisq",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/whKnBuo4xUUi7wTm8Yisq"
+                },
+                "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#1272ba"
+    },
+    {
+        "id": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "abbreviation": "STAT",
+        "number": 35000,
+        "name": "Introduction To Statistics",
+        "subject": "Statistics",
+        "color": "#7a7a7a",
+        "disclaimer": "",
+        "studyModes": [
+            "EXAM",
+            "TIMED_EXAM",
+            "TOPIC"
+        ],
+        "flags": {
+            "published": true,
+            "invertImageColors": false
+        },
+        "stats": {
+            "count": 1,
+            "timeSpent": "1244659796",
+            "timeSpentVideo": "396784093",
+            "submissions": 12708,
+            "submissionsCorrect": 6696,
+            "questions": 55,
+            "exams": 3,
+            "topics": 0,
+            "accuracy": 0.5269121813031161,
+            "difficulty": 0.7232979387882573
+        },
+        "events": [
+            {
+                "id": "a07abe75-45bc-4ba2-bb9b-4c897b60c351",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-10-10T22:30:00.000Z",
+                "end": "2024-10-10T23:30:00.000Z",
+                "location": "LILY G126, LILY 1105, BHEE 129",
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af"
+            },
+            {
+                "id": "6f3fc550-7983-49e4-9c69-17ce87405822",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2024-11-21T23:30:00.000Z",
+                "end": "2024-11-22T00:30:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), PHYS 114, BHEE 129",
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af"
+            },
+            {
+                "id": "2bef9c7f-9b6f-4d84-8902-b9defd123788",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-06T23:30:00.000Z",
+                "end": "2025-03-07T00:30:00.000Z",
+                "location": "WALC 1055 (Hiler Thtr), PHYS 203, PHYS 114, PHYS 112",
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af"
+            },
+            {
+                "id": "1827588c-3571-441a-804a-4999d4bed6f1",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-03-13T00:00:00.000Z",
+                "end": "2025-03-13T01:00:00.000Z",
+                "location": "WTHR 104, BRNG 2290, BRNG 2280",
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af"
+            },
+            {
+                "id": "3d05f805-559d-4152-8974-5971d96d19fc",
+                "title": null,
+                "description": null,
+                "type": "EXAM",
+                "start": "2025-04-09T22:30:00.000Z",
+                "end": "2025-04-09T23:30:00.000Z",
+                "location": "WTHR 200, WTHR 172, WTHR 104, UC 114",
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af"
+            }
+        ],
+        "resources": [
+            {
+                "id": "77c6cacf-badd-46c2-b3a7-e62d8fae2372",
+                "type": "LOGO",
+                "data": {
+                    "key": "OH4KSgALiEkSkX6GM83m4",
+                    "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/OH4KSgALiEkSkX6GM83m4"
+                },
+                "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": null,
+                "customExamId": null
+            }
+        ],
+        "secondaryColor": "#626262"
+    }
+]
