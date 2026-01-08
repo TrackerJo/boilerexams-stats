@@ -1,0 +1,32 @@
+.course-selector {
+    padding: 0.3rem;
+    width: fit-content;
+    border-radius: 2rem;
+    background-color: var(--secondary);
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.5rem;
+  
+}
+
+.course {
+    padding: 0.3rem;
+    margin: 0.2rem;
+    width: fit-content;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.course.selected {
+    background-color: var(--primary);
+
+}
+
+.course-label {
+    font-weight: bold;
+    color: white
+}
+
+.course.selected .course-label {
+    color: black
+}

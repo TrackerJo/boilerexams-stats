@@ -1,0 +1,144 @@
+.large-stat-tile {
+    width: 80vw !important;
+    max-width: unset !important;
+}
+
+.large-stat-tile .title {
+    margin-top: 0;
+    color: white;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.large-stat-tile .headers {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    display: grid;
+    color: white;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.empty {
+    width: 8px;
+    height: 8px;
+}
+
+.large-stat-tile .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: var(--background);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    font-weight: normal;
+    font-size: small;
+    line-height: normal;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--background) transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.large-stat-tile .header label {
+    cursor: pointer;
+}
+
+.large-stat-tile .header .header-sorting {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.large-stat-tile .header .header-sorting img {
+    width: 8px;
+    height: 8px;
+}
+
+.large-stat-tile .items {
+    max-height: 400px;
+    overflow: auto;
+}
+
+.large-stat-tile .stat {
+
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    display: grid;
+    border: var(--background) 0.2rem solid;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+
+
+}
+
+.large-stat-tile .stat h1 {
+    font-weight: 800;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-align: center;
+
+}
+
+.large-stat-tile .stat .white {
+    color: white;
+}
+
+.large-stat-tile .stat .green {
+    color: #1abc50;
+}
+
+.large-stat-tile .stat .blue {
+    color: #37a2eb;
+}
+
+.large-stat-tile .stat .red {
+    color: #ef4444;
+}
+
+.large-stat-tile .stat .yellow {
+    color: #ffc63b;
+}
+
+.large-stat-tile .stat .orange {
+    color: #ff9f40;
+}
+
+.large-stat-tile .stat .pink {
+    color: #ff6383;
+}

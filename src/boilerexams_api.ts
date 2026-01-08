@@ -4,6 +4,7 @@ import { Course, Exam, Question } from "./constants";
 const USE_FAKE_API = false
 
 export async function getQuesion(questionId: string): Promise<Question> {
+    console.log("GETTING QUESTION", questionId)
     const headers: Headers = new Headers()
 
     headers.set('Content-Type', 'application/json')
@@ -28,7 +29,10 @@ export async function getQuesion(questionId: string): Promise<Question> {
             if (USE_FAKE_API) {
                 const questions: Question[] = [];
                 res.forEach((e: any) => questions.push(Question.fromJSON(e)))
-                return questions.find((q) => q.id = questionId)!
+                console.log(questions, "QUESTIONS")
+                const question: Question = questions.find((q) => q.id == questionId)!
+                console.log(question, "FOUND QUESTION")
+                return question
             }
 
             return Question.fromJSON(res)
@@ -36,6 +40,7 @@ export async function getQuesion(questionId: string): Promise<Question> {
 }
 
 export async function getCourse(courseId: string): Promise<Course> {
+    console.log("Getting Course", courseId)
     const headers: Headers = new Headers()
 
     headers.set('Content-Type', 'application/json')
@@ -59,7 +64,7 @@ export async function getCourse(courseId: string): Promise<Course> {
             if (USE_FAKE_API) {
                 const courses: Course[] = [];
                 res.forEach((e: any) => courses.push(Course.fromJSON(e)))
-                return courses.find((c) => c.id = courseId)!
+                return courses.find((c) => c.id == courseId)!
             }
             return Course.fromJSON(res)
         })
@@ -90,7 +95,7 @@ export async function getExam(examId: string): Promise<Exam> {
             if (USE_FAKE_API) {
                 const exams: Exam[] = [];
                 res.forEach((e: any) => exams.push(Exam.fromJSON(e)))
-                return exams.find((e) => e.id = examId)!
+                return exams.find((e) => e.id == examId)!
             }
             return Exam.fromJSON(res)
         })
@@ -109,7 +114,7 @@ export async function getAllExams(): Promise<Exam[]> {
             headers: headers
         })
     } else {
-        request = new Request(`/api/exams/`, {
+        request = new Request(`/api/exams`, {
             method: 'GET',
             headers: headers
         })
@@ -119,6 +124,9 @@ export async function getAllExams(): Promise<Exam[]> {
         .then(res => res.json())
         .then(res => {
             const exams: Exam[] = [];
+            console.log("GETTING ALL EXAMS")
+            console.log(res);
+            console.log(typeof res)
             res.forEach((e: any) => exams.push(Exam.fromJSON(e)))
             return exams;
 

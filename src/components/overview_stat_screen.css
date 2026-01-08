@@ -1,0 +1,9 @@
+.stat-screen {
+    padding: 20px;
+    display: flex;
+    gap: 1rem;
+    /* align-items: center; */
+    justify-content: center;
+    width: 100vw;
+    flex-wrap: wrap;
+}

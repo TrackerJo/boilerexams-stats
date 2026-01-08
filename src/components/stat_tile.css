@@ -1,0 +1,70 @@
+.stat-tile {
+    background-color: var(--secondary);
+    padding: 1rem;
+    width: fit-content;
+    text-align: center;
+    border-radius: 0.5rem;
+    box-shadow: 5px 5px 5px hsl(0 0% 10.6% / .5);
+    max-width: 15rem;
+    animation: fade-in 1s forwards;
+}
+
+.stat-tile .stat {
+
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.stat-tile .stat.green {
+    color: #1abc50;
+}
+
+.stat-tile .stat.blue {
+    color: #37a2eb;
+}
+
+.stat-tile .stat.red {
+    color: #ef4444;
+}
+
+.stat-tile .stat.yellow {
+    color: #ffc63b;
+}
+
+.stat-tile .stat.orange {
+    color: #ff9f40;
+}
+
+.stat-tile .stat.pink {
+    color: #ff6383;
+}
+
+.stat-tile .title {
+    color: white;
+    font-weight: 700;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .stat-tile {
+        padding: 0.5rem;
+
+    }
+
+    .stat-tile .stat {
+
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+    }
+}

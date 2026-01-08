@@ -8,7 +8,7 @@
 
   --primary: #d0ba92;
   --primary-light: #d0ba92d9;
-
+  --secondary: #1b1b1b;
   --background: #32383e;
 
   background-color: var(--background);
@@ -26,7 +26,7 @@
 html,
 body {
   width: 100%;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 .sticky+.content {
@@ -74,7 +74,7 @@ h1 {
 
 @media only screen and (max-width: 768px) {
   body {
-    overflow-x: hidden !important;
+    /* overflow-x: hidden !important; */
   }
 
   /* Improve touch targets for mobile */
@@ -158,12 +158,14 @@ button:focus {
   border: 7px solid #f3f3f3;
   border-radius: 50%;
   border-top: 7px solid var(--primary);
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   -webkit-animation: spin 2s linear infinite;
   /* Safari */
   animation: spin 2s linear infinite;
-
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 
 @keyframes spin {

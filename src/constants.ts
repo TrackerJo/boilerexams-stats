@@ -8,6 +8,22 @@ enum Season {
     spring = 'SPRING'
 }
 
+// export interface Sortable<T> {
+//     sortBy(value: string, increasing: boolean): T[]
+// }
+
+// export class ExamList implements Sortable<Exam> {
+//     exams: Exam[]
+
+//     constructor({ exams }: ExamList) {
+//         this.exams = exams;
+//     }
+
+//     sortBy(value: string, increasing: boolean): Exam[] {
+//         const sortedList = this.exams.sort((a, b) => a[value].compareTo(b[value]))
+//     }
+// }
+
 export class Exam {
     id: string;
     courseId: string;
@@ -15,14 +31,16 @@ export class Exam {
     year: number;
     season: Season;
     difficulty: number;
+    questions: string[];
 
-    constructor({ id, courseId, number, year, season, difficulty }: Exam) {
+    constructor({ id, courseId, number, year, season, difficulty, questions }: Exam) {
         this.id = id;
         this.courseId = courseId;
         this.number = number;
         this.difficulty = difficulty;
         this.year = year;
-        this.season = season
+        this.season = season;
+        this.questions = questions;
     }
 
     static fromJSON(data: any): Exam {
@@ -32,7 +50,8 @@ export class Exam {
             difficulty: data.stats.difficulty,
             year: data.year,
             season: data.season,
-            number: data.number
+            number: data.number,
+            questions: data.questions.map((q: any) => q.id)
         })
     }
 }
@@ -42,12 +61,14 @@ export class Topic {
     courseId: string;
     name: string;
     difficulty: number;
+    totalQuestions: number;
 
-    constructor({ id, courseId, name, difficulty }: Topic) {
+    constructor({ id, courseId, name, difficulty, totalQuestions }: Topic) {
         this.id = id;
         this.courseId = courseId;
         this.name = name;
         this.difficulty = difficulty;
+        this.totalQuestions = totalQuestions;
     }
 
     static fromJSON(data: any): Topic {
@@ -55,7 +76,8 @@ export class Topic {
             id: data.id,
             courseId: data.courseId,
             name: data.name,
-            difficulty: data.stats.difficulty
+            difficulty: data.stats.difficulty,
+            totalQuestions: data.stats.questions
         })
     }
 }
@@ -64,24 +86,24 @@ export class Question {
     type: QuestionType;
     id: string;
     courseId: string;
-    exam: Exam;
+    topics: Topic[];
     difficulty: number;
 
 
-    constructor({ type, id, courseId, exam, difficulty }: Question) {
+    constructor({ type, id, courseId, difficulty, topics }: Question) {
         this.type = type;
         this.id = id;
         this.courseId = courseId;
-        this.exam = exam;
         this.difficulty = difficulty;
+        this.topics = topics;
     }
     static fromJSON(data: any): Question {
         return new Question({
             type: data.type,
             id: data.id,
             courseId: data.courseId,
-            exam: Exam.fromJSON(data.exam),
-            difficulty: data.stats.difficulty
+            difficulty: data.stats.difficulty,
+            topics: data.topics.map((t: any) => Topic.fromJSON(t))
         });
     }
 }
@@ -154,18 +176,22 @@ export class Attempt {
 export class QuestionStat {
     id: string;
     attempts: Attempt[];
+    timeSpent: number;
 
-    constructor({ attempts, id }: QuestionStat) {
+    constructor({ attempts, id, timeSpent }: QuestionStat) {
         this.attempts = attempts;
         this.id = id;
+        this.timeSpent = timeSpent;
 
     }
 
     static fromJSON(data: any, id: string): QuestionStat {
         return new QuestionStat({
             attempts: data.attempts.map((a: any) => Attempt.fromJSON(a)),
-            id: id
+            id: id,
+            timeSpent: Math.random() * 600000
         })
     }
 
 }
+

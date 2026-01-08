@@ -1,4 +1,15 @@
 #root {
   width: 100%;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
+}
+
+.set-local {
+  left: 50%;
+  position: relative;
+  transform: translateX(-50%);
+}
+
+.no-questions {
+  color: var(--primary);
+  text-align: center;
 }
