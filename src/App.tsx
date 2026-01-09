@@ -378,9 +378,14 @@ function App() {
       const loadedCourses: Course[] = [];
       const loadedExams: Exam[] = await getAllExams();
       const loadedTopics: Topic[] = [];
+      const statPromises = [];
       for (const stat of localSubmissions) {
 
-        const question: Question = await getQuesion(stat.id);
+        statPromises.push(getQuesion(stat.id));
+
+      }
+      const statQuestions = await Promise.all(statPromises);
+      for (const question of statQuestions) {
         loadedQuestions.push(question);
         for (const topic of question.topics) {
           if (!loadedTopics.find((t) => t.id == topic.id)) loadedTopics.push(topic)
@@ -390,6 +395,15 @@ function App() {
           loadedCourses.push(course)
         }
       }
+
+      setAttemptedQuestions(loadedQuestions)
+      setCourses(loadedCourses)
+      setExams(loadedExams)
+      console.log(loadedQuestions, "LOADED QUESTIONS")
+      console.log(loadedCourses)
+      console.log(loadedExams)
+      setLocalSubmissions(localSubmissions)
+
       const promises = [];
       for (const exam of loadedExams.filter((e) => loadedCourses.find((c) => c.id == e.courseId))) {
         for (const q of exam.questions) {
@@ -405,21 +419,14 @@ function App() {
           if (!loadedTopics.find((t) => t.id == topic.id)) loadedTopics.push(topic)
         }
       }
+      setLoading(false)
+
+      console.log(loadedTopics)
+
 
       setTopics(loadedTopics)
-      setAttemptedQuestions(loadedQuestions)
-      setCourses(loadedCourses)
-      setExams(loadedExams)
-      console.log(loadedQuestions, "LOADED QUESTIONS")
-      console.log(loadedCourses)
-      console.log(loadedExams)
-      console.log(loadedTopics)
-      setLocalSubmissions(localSubmissions)
-      console.log(attemptedQuestions)
-      console.log(courses)
-      console.log(exams)
+
       console.log(topics)
-      setLoading(false)
     }
     loadData()
   }, [])

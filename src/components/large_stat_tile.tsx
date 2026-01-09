@@ -61,6 +61,7 @@ const LargeStatTile = ({ title, headers, items, sort, itemColors, tooltips }: La
             </div>
             <div className="items">
                 {
+
                     items.map((item) => (<div className="stat"> <h1 className={itemColors[0]}>{item.get(headers[0])}</h1><h1 className={itemColors[1]}>{item.get(headers[1])}</h1><h1 className={itemColors[2]}>{item.get(headers[2])}</h1> </div>))
                 }
             </div>
